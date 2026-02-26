@@ -1,27 +1,113 @@
-# 💫 About Me:
-### 🚀 About Me<br>- 🎓 **AI Engineering Student** (2nd Year) | Background in Electronic Engineering @ Ibn Tofail University.<br>- 💻 Currently mastering **Python** for Web Scraping, Automation, and Artificial Intelligence.<br>- 🌐 Full-Stack Explorer: Building web apps with **Node.js, PHP, and SQLite**.<br>- 🐧 **Linux Enthusiast**: Experienced in environment setup and troubleshooting (Kali/Gnome).<br>- 🇩🇪 **Language Learner**: Currently leveling up my German (A1 -> B2 target).<br>- 📈 **SMC Trader**: Analyzing markets using Smart Money Concepts and ICT strategies.
+<div align="center">
 
+```
+ █████╗ ██████╗ ██████╗ ███████╗██╗     ██╗      █████╗ ██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██║     ██║     ██╔══██╗██║  ██║
+███████║██████╔╝██║  ██║█████╗  ██║     ██║     ███████║███████║
+██╔══██║██╔══██╗██║  ██║██╔══╝  ██║     ██║     ██╔══██║██╔══██║
+██║  ██║██████╔╝██████╔╝███████╗███████╗███████╗██║  ██║██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdellahselmani_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdellahselmani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/uneizac_) 
+# Hey, I'm Abdellah Selmani 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=unezac&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=unezac&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=unezac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**AI Engineering Student · Full-Stack Explorer · SMC Trader · Linux Enthusiast**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=unezac&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![X](https://img.shields.io/badge/X-@uneizac__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/uneizac_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdellahselmani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdellahselmani/)
+[![Instagram](https://img.shields.io/badge/Instagram-abdellahselmani__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdellahselmani_/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=unezac&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=unezac&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```python
+class Abdellah:
+    university   = "Ibn Tofail University 🇲🇦"
+    degree       = "AI Engineering (2nd Year)"
+    background   = "Electronic Engineering"
+    location     = "Morocco"
+    
+    current_focus = [
+        "Python — Scraping, Automation, AI",
+        "Full-Stack Web (Node.js · PHP · SQLite)",
+        "Linux Environment Mastery (Kali / Gnome)",
+        "German Language A1 → B2 🇩🇪",
+        "Market Analysis via SMC & ICT Concepts",
+    ]
+    
+    fun_fact = "I read candles the same way I read code — patterns everywhere."
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdellahselmani&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=c8f000&icon_color=00f0c8&text_color=e8e8f0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellahselmani&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=c8f000&text_color=e8e8f0" width="48%" />
+
+</div>
+
+---
+
+## 🌍 Languages
+
+| Language | Level | Progress |
+|----------|-------|----------|
+| 🇲🇦 Arabic  | Native | ██████████ 100% |
+| 🇬🇧 English | Fluent | ████████░░ 80% |
+| 🇫🇷 French  | Intermediate | ██████░░░░ 60% |
+| 🇩🇪 Deutsch | A1 → B2 (Learning) | ██░░░░░░░░ 20% |
+
+---
+
+## 📈 Trading — Smart Money Concepts
+
+> _"The market moves with institutional intent. I just follow the footprints."_
+
+**Methodology:** `SMC` · `ICT` · `Order Blocks` · `Fair Value Gaps` · `Liquidity Sweeps` · `Market Structure`
+
+---
+
+## 🔭 Currently Working On
+
+- 🤖 Building AI-powered automation tools with Python
+- 🌐 Exploring full-stack web apps (Node.js + SQLite)
+- 🐧 Deepening Linux sysadmin & environment troubleshooting skills
+- 🇩🇪 Leveling up German from A1 toward B2
+- 📉 Refining my SMC trading playbook
+
+---
+
+<div align="center">
+
+**Let's connect and build something great.**
+
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x)](https://x.com/uneizac_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdellahselmani/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/abdellahselmani_/)
+
+*Ibn Tofail University · Morocco 🇲🇦 · 2026*
+
+</div>
