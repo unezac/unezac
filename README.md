@@ -1,49 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+### 🚀 About Me<br>- 🎓 **AI Engineering Student** (2nd Year) | Background in Electronic Engineering @ Ibn Tofail University.<br>- 💻 Currently mastering **Python** for Web Scraping, Automation, and Artificial Intelligence.<br>- 🌐 Full-Stack Explorer: Building web apps with **Node.js, PHP, and SQLite**.<br>- 🐧 **Linux Enthusiast**: Experienced in environment setup and troubleshooting (Kali/Gnome).<br>- 🇩🇪 **Language Learner**: Currently leveling up my German (A1 -> B2 target).<br>- 📈 **SMC Trader**: Analyzing markets using Smart Money Concepts and ICT strategies.
 
-# 👋 Hello, I'm abdellah SELMANI!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unezac&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?unezac&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdellahselmani_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdellahselmani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/uneizac_) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=unezac&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=unezac&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=unezac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🚀 About Me
-- 🎓 **AI Student** (2nd Year) | Ex-Electronic Engineering Student @ Ibn Tofail University.
-- 🌍 Based in **Morocco**.
-- 🇩🇪 Learning **German** (Targeting B2).
-- 🐍 Passionate about **Python Automation**, **Web Scraping**, and **AI Development**.
-- 📊 **Trader** exploring SMC & ICT concepts (Nasdaq/US100).
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=unezac&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🛠️ Tech Stack & Skills
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white) |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=unezac&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=unezac&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📂 Featured Projects
-- 🏫 **German Prep Platform:** A web application for B1/B2 exam preparation with quizzes and admin dashboard (Node.js/PHP).
-- 🕸️ **Web Scraper Pro:** Python scripts using Selenium & Playwright for automated data extraction.
-- 📉 **Trading Journal:** Automated journaling system using n8n for trade tracking.
-
----
-
-### 📈 Activity & Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true)
-
----
-
-### 📫 Connect with me
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN)
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
