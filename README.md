@@ -77,8 +77,8 @@ class Abdellah:
 |----------|-------|----------|
 | 🇲🇦 Arabic  | Native | ██████████ 100% |
 | 🇬🇧 English | Fluent | ████████░░ 80% |
-| 🇫🇷 French  | Intermediate | ██████░░░░ 60% |
-| 🇩🇪 Deutsch | A1 → B2 (Learning) | ██░░░░░░░░ 20% |
+| 🇫🇷 French  | Intermediate | ██████░░░ 60% |
+| 🇩🇪 Deutsch | A1 → B2 (Learning) | ██████░░░ 70% |
 
 ---
 
