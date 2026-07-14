@@ -1,3 +1,4 @@
+```
 -----------:::   ..   .    :  .:.:--======+++++****####   unezac@github
 ---------:::...       .   .   :. .:..----====++++*****#   -------------
 --------:::...        .  ..   :  .-  :. .::-===+++++***   OS: ...................... Morocco Linux (Kali/GNOME) 🇲🇦
@@ -21,3 +22,10 @@
                                                           
                                                           GitHub Stats -----------------
                                                           Repos: ...................... 3
+```
+
+# Hey, I'm Abdellah 👋
+
+**AI Engineering Student · Full-Stack Explorer · SMC Trader · Linux Enthusiast**
+
+Ibn Tofail University · Morocco 🇲🇦
