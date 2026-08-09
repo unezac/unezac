@@ -15,7 +15,7 @@
 
 <table align="center">
 <tr>
-<td align="center">🎓<br><b>AI Engineering</b><br><sub>Ibn Tofail University</sub></td>
+<td align="center">🎓<br><b> artificial intelligence student</b><br><sub>Ibn Tofail University</sub></td>
 <td align="center">💼<br><b>Open to</b><br><sub>Internships (Germany)</sub></td>
 <td align="center">🛠️<br><b>Focus</b><br><sub>Backend • AI • Systems</sub></td>
 <td align="center">📍<br><b>Based in</b><br><sub>Morocco</sub></td>
