@@ -105,7 +105,7 @@ Docker • Git • Linux • Azure • Vercel
 
 # Connect
 
-Portfolio → https://yourportfolio.com
+Portfolio → https://www.abdellahselmani.me
 
 LinkedIn → https://linkedin.com/in/abdellahselmani
 
