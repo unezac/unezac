@@ -1,24 +1,30 @@
+<!-- ═══════════ HEADER (animated waving banner) ═══════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Abdellah+Selmani;AI+Engineering+Student;Backend+Engineer;Systems+Builder" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=230&section=header&text=Abdellah%20Selmani&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Systems%20Builder&descSize=20&descAlignY=58" width="100%" alt="header" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=I+build+systems%2C+not+just+applications.;AI+Engineering+Student+%40+Ibn+Tofail+University;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Docker;Looking+for+an+internship+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-unezac-181717?style=for-the-badge&logo=github)](https://github.com/unezac)
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdellahselmani.me-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.abdellahselmani.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdellahselmani)
-[![X](https://img.shields.io/badge/X-@uneizac-000000?style=for-the-badge&logo=x)](https://x.com/uneizac)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdellahselmani)
+[![X](https://img.shields.io/badge/X-@uneizac-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/uneizac)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selmaniabde78@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=unezac&label=Profile%20views&color=2F80ED&style=for-the-badge" alt="views" />
 
 </div>
 
-<br>
+<br/>
 
+<!-- ═══════════ QUICK FACTS ═══════════ -->
 <table align="center">
 <tr>
-<td align="center">🎓<br><b> artificial intelligence student</b><br><sub>Ibn Tofail University</sub></td>
+<td align="center">🎓<br><b>AI Student</b><br><sub>Ibn Tofail University</sub></td>
 <td align="center">💼<br><b>Open to</b><br><sub>Internships (Germany)</sub></td>
 <td align="center">🛠️<br><b>Focus</b><br><sub>Backend • AI • Systems</sub></td>
-<td align="center">📍<br><b>Based in</b><br><sub>Morocco</sub></td>
+<td align="center">📍<br><b>Based in</b><br><sub>Morocco 🇲🇦</sub></td>
 </tr>
 </table>
 
@@ -26,7 +32,7 @@
 
 ## 👤 About Me
 
-I'm an AI Engineering student from Morocco focused on building intelligent systems, backend infrastructures, and production-ready software.
+I'm an AI Engineering student from Morocco focused on building **intelligent systems, backend infrastructure, and production-ready software**.
 
 <table>
 <tr>
@@ -56,16 +62,11 @@ I'm an AI Engineering student from Morocco focused on building intelligent syste
 
 ---
 
-## 📊 GitHub Overview
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=unezac&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unezac&layout=compact&hide_border=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=unezac&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,php,c,fastapi,nodejs,postgres,mysql,sqlite,supabase,redis,docker,git,linux,azure,vercel,pytorch,sklearn,pandas,numpy&perline=7&theme=dark" alt="skills" />
 
 </div>
 
@@ -73,73 +74,83 @@ I'm an AI Engineering student from Morocco focused on building intelligent syste
 
 ## 🚀 Current Projects
 
-| Project | Description | Stack | Status |
-|---|---|---|:---:|
-| **MoneyBott OS** | Institutional Market Intelligence Operating System | `Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `WebSocket` | 🟢 Active |
-| **KeyGermany** | Platform helping students prepare for studying and living in Germany | — | 🟢 Active |
-| **TELC Learning Platform** | Interactive platform for German B1/B2 exam preparation | — | 🟢 Active |
-
----
-
-## 🧰 Tech Stack
-
 <table>
 <tr>
-<td valign="top" width="20%">
+<td width="33%" valign="top">
 
-**Languages**
+### 📈 MoneyBott OS
+Institutional **Market Intelligence Operating System**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+`Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `WebSocket`
+
+🟢 **Active**
 
 </td>
-<td valign="top" width="20%">
+<td width="33%" valign="top">
 
-**Backend**
+### 🇩🇪 KeyGermany
+Platform helping students **prepare for studying and living in Germany**
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-25D366?style=flat-square)
-![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square)
+🟢 **Active**
 
 </td>
-<td valign="top" width="20%">
+<td width="33%" valign="top">
 
-**AI**
+### 📚 TELC Learning Platform
+Interactive platform for **German B1/B2** exam preparation
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-</td>
-<td valign="top" width="20%">
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-<td valign="top" width="20%">
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
+🟢 **Active**
 
 </td>
 </tr>
 </table>
+
+<!-- Optional: replace REPO_NAME with your real repo names to get live pinned cards
+<div align="center">
+<a href="https://github.com/unezac/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=unezac&repo=REPO_NAME&theme=tokyonight&hide_border=true" /></a>
+</div>
+-->
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=unezac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unezac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=unezac&theme=tokyonight&hide_border=true" alt="streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=unezac&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="trophies" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=unezac&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unezac/unezac/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unezac/unezac/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/unezac/unezac/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -151,12 +162,10 @@ I'm an AI Engineering student from Morocco focused on building intelligent syste
 |:---:|:---:|:---:|:---:|
 | [abdellahselmani.me](https://www.abdellahselmani.me) | [in/abdellahselmani](https://linkedin.com/in/abdellahselmani) | [@uneizac](https://x.com/uneizac) | [selmaniabde78@gmail.com](mailto:selmaniabde78@gmail.com) |
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 > **"I build systems, not just applications."**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" width="100%" alt="footer" />
