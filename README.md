@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/unezac/unezac/main/assets/header.svg" width="100%" alt="Abdellah Selmani - Full-Stack Developer"/>
+<img src="https://raw.githubusercontent.com/unezac/unezac/main/header.svg" width="100%" alt="Abdellah Selmani - Full-Stack Developer"/>
 
 <a href="https://github.com/unezac">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7C5CFF&center=true&vCenter=true&width=720&height=40&lines=I+build+e-commerce+platforms+%F0%9F%8D%AF;I+craft+REST+APIs+with+FastAPI+%F0%9F%90%8D;I+ship+clean%2C+secure+and+tested+code+%E2%9A%A1;Based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%A2+Open+to+opportunities" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7C5CFF&center=true&vCenter=true&width=800&height=40&lines=I+build+e-commerce+platforms+%F0%9F%8D%AF;I+craft+REST+APIs+with+FastAPI+%F0%9F%90%8D;I+ship+clean%2C+secure+and+tested+code+%E2%9A%A1;Based+in+Morocco+%E2%80%A2+Open+to+opportunities" alt="typing"/>
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/unezac/unezac/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/unezac/unezac/main/divider.svg" width="100%" alt=""/>
 
 ## 👨‍💻 About
 
@@ -44,7 +44,7 @@ const abdellah = {
 - 🔐 I write with security and testing in mind (PHPUnit, CI, HTTPS-first)
 - 🤝 Open to collaborations, freelance and open-source
 
-<img src="https://raw.githubusercontent.com/unezac/unezac/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/unezac/unezac/main/divider.svg" width="100%" alt=""/>
 
 ## 🛠 Tech Stack
 
@@ -64,14 +64,14 @@ const abdellah = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/unezac/unezac/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/unezac/unezac/main/divider.svg" width="100%" alt=""/>
 
 ## 📌 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/unezac/hannymoney"><img src="https://raw.githubusercontent.com/unezac/unezac/main/assets/card-manahil.svg" width="48%" alt="MANAHIL-ASL"/></a>
-<a href="https://github.com/unezac/keyde"><img src="https://raw.githubusercontent.com/unezac/unezac/main/assets/card-keygermany.svg" width="48%" alt="KeyGermany"/></a>
+<a href="https://github.com/unezac/hannymoney"><img src="https://raw.githubusercontent.com/unezac/unezac/main/card-manahil.svg" width="48%" alt="MANAHIL-ASL"/></a>
+<a href="https://github.com/unezac/keyde"><img src="https://raw.githubusercontent.com/unezac/unezac/main/card-keygermany.svg" width="48%" alt="KeyGermany"/></a>
 
 </div>
 
@@ -118,7 +118,7 @@ uvicorn main:app --reload --host 127.0.0.1 --port 3000
 
 </details>
 
-<img src="https://raw.githubusercontent.com/unezac/unezac/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/unezac/unezac/main/divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub Stats
 
@@ -139,7 +139,7 @@ uvicorn main:app --reload --host 127.0.0.1 --port 3000
 
 </div>
 
-<img src="https://raw.githubusercontent.com/unezac/unezac/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/unezac/unezac/main/divider.svg" width="100%" alt=""/>
 
 ## 🔀 Git Workflow
 
@@ -199,7 +199,7 @@ git cherry-pick <commit>               # pick one commit
 
 </details>
 
-<img src="https://raw.githubusercontent.com/unezac/unezac/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/unezac/unezac/main/divider.svg" width="100%" alt=""/>
 
 ## 📫 Contact
 
@@ -213,6 +213,6 @@ git cherry-pick <commit>               # pick one commit
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+%E2%9C%A8;Let's+build+something+great+together" alt="thanks"/>
 
-<img src="https://raw.githubusercontent.com/unezac/unezac/main/assets/footer.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/unezac/unezac/main/footer.svg" width="100%" alt=""/>
 
 </div>
